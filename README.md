@@ -1,7 +1,7 @@
 haxe-away3d
 ===========
 
-  haxelib install away3d https://github.com/labe-me/haxe-away3d haxelib
+  haxelib git away3d https://github.com/labe-me/haxe-away3d haxelib
 
 Or
 
