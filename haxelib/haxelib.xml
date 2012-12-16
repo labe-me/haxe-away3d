@@ -1,0 +1,6 @@
+<project name="away3d" url="https://github.com/labe-me/haxe-away3d" license="MIT">
+    <user name=""/>
+    <tag v="flash"/>
+    <description>Away3D</description>
+    <version name="1.0.0">Init</version>
+</project>

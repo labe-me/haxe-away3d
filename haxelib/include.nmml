@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <compilerflag name="-swf-lib Away3d.swf" if="flash" />
+    <app swf-version="11" />
+    <haxedef name="as3_native" />
+</project>
